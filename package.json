@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/HalfMillennium/TrackClub/issues"
   },
-  "homepage": "https://github.com/HalfMillennium/TrackClub#readme"
+  "homepage": "https://github.com/HalfMillennium/TrackClub#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "express-session": "^1.17.3",
+    "uuid": "^8.3.2"
+  }
 }

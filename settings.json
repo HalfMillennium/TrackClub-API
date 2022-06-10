@@ -1,0 +1,6 @@
+{
+    "mongoConfig": {
+        "serverUrl": "mongodb+srv://percival:gmoney@cluster0.dgas3.mongodb.net/?retryWrites=true&w=majority",
+        "database": "track-club"
+    }
+}
